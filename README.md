@@ -10,7 +10,7 @@
 #### 🤔 I’m looking for a WebDev partner.
 
 
-# [Portfolio](soumyaneel.web.app)
+# [Portfolio](https://soumyaneel.web.app)
 
 
 
