@@ -28,7 +28,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-64DFDF?logo=Visual%20Studio%20Code&logoColor=white)
   ![Eslint](https://img.shields.io/badge/ESLint-D6FFF3?logo=ESLint&logoColor=white)
   
-</div>
+
 
 ### Github Stats:-
 ![Soumyaneel's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Little-Hat)
@@ -49,6 +49,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=A-Little-Hat&theme=gruvbox)
 
 </br>
+</div>
 
 ### Github Activity Graph:-
 ![Soumyaneel's github activity graph](https://activity-graph.herokuapp.com/graph?username=A-Little-Hat)
