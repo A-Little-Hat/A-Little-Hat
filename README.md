@@ -12,7 +12,7 @@
 
 # [Portfolio](https://soumyaneel.web.app)
 
-
+[![@soumyaneel's Holopin board](https://holopin.io/api/user/board?user=soumyaneel)](https://holopin.io/@soumyaneel)
 
 <div align="center">
   <h2>Tech Stack</h2>
