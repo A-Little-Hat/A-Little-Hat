@@ -1,13 +1,13 @@
 # ![hi](https://www.mediafire.com/convkey/3a97/nkg4j7d832ludi8zg.jpg) I'm Soumyaneel.
 
 
-## Student | WebDev | Tech Enthusiast
+## CU MCA'24 | Machine Learning | WebDev | NLP | Tech Enthusiast
 
 ### I love to code and a passionate macro photographer 📸.
 
-#### 🔭 I’m currently working on my WebDev Skills.
-#### 🌱 I’m currently learning React.
-#### 🤔 I’m looking for a WebDev partner.
+#### 🔭 I’m currently working on some NLP projects.
+#### 🌱 I’m currently learning Web3.
+#### 🤔 I’m looking for a NLP experts as my partner.
 
 
 # [Portfolio](https://soumyaneel.web.app)
