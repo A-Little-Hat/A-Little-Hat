@@ -10,7 +10,7 @@
 #### 🤔 I’m looking for a NLP experts as my partner.
 
 
-# [Portfolio](https://soumyaneel.web.app)
+# [Resume](https://drive.google.com/file/d/1NkyMJZv_qFmrTfY7PVW2eLBllTemWmKf/view?usp=drive_link)
 
 [![@soumyaneel's Holopin board](https://holopin.io/api/user/board?user=soumyaneel)](https://holopin.io/@soumyaneel)
 
