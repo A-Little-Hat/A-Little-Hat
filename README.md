@@ -53,8 +53,6 @@
 </br>
 </div>
 
-### Github Activity Graph:-
-![Soumyaneel's github activity graph](https://activity-graph.herokuapp.com/graph?username=A-Little-Hat)
 
 
 <h2><i> <p align="center"> Show ❤️ by Starring Some of my Repos</i></h2>
