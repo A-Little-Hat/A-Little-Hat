@@ -1,4 +1,4 @@
-# ![hi](https://www.mediafire.com/convkey/3a97/nkg4j7d832ludi8zg.jpg) 𝓘'𝓶 𝓢𝓸𝓾𝓶𝔂𝓪𝓷𝓮𝓮𝓵.
+# 𝖍𝖎 𝓘'𝓶 𝓢𝓸𝓾𝓶𝔂𝓪𝓷𝓮𝓮𝓵.
 
 
 ## SDE @NIC | Machine Learning | WebDev | NLP | Tech Enthusiast
